@@ -1,1 +1,5 @@
-Hello Nilesh this is Git Test
+#Read Me
+
+## Setup
+
+type 'git clone https://github.com/nileshnaval/learnSFDX.git' to get staeted!
